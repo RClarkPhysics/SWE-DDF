@@ -1,0 +1,14 @@
+This test was done on a SWE fluid with:
+epsilon=1e-8
+f0=1e-5
+beta=1e-12
+A=1e2
+Forcing2=1e-5
+dt=1e-1
+
+
+This SWE has Coriolis, drag, friction, and the Forcing in the x-direction. The training was done on the firs 10k data points and 5k were forecasted afterwards to much success. This is not a chaotic system (to my knowledge), but is very nonlinear and as such we are able to forecast it for a great length of time.
+
+
+
+One additional note. I actually did the test with a 20k size file (trained on 10k and predicted on 5k, but I'm limited to only uploading a 10k size file, so thats why there is a discrepancy).
