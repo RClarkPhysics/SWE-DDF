@@ -11,4 +11,8 @@ https://user-images.githubusercontent.com/54558570/164692112-e4673e7d-05c8-4c6e-
 
 The Shallow Water Equations themselves with Wind Forcing:
 
+<img width="648" alt="Screen Shot 2022-04-25 at 11 43 52 PM" src="https://user-images.githubusercontent.com/54558570/165238149-45bf7057-5729-4ceb-ab16-af1bb12c86f5.png">
+
+
 How we Generated the SWE (include a link to the papers method):
+
