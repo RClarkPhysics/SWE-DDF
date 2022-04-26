@@ -14,7 +14,7 @@ The Shallow Water Equations:
 <img width="1011" alt="Screen Shot 2022-04-25 at 11 48 09 PM" src="https://user-images.githubusercontent.com/54558570/165239371-c75c0201-be28-452c-bb57-0a2383cdbee7.png">
 
 
-We include forcing terms that that are additive to the equations of motion. In the examples, a wind forcing term takes the place as our forcing term (the bold F); the form of the wind force is a an additional A*cos(2*pi*y/L) where A is a chosen coefficient, and L is the full length of the Shallow Water in the X direction). Also note that f(r) = f_0 + Beta*y
+We include forcing terms that that are additive to the equations of motion. In the examples, a wind forcing term takes the place as our forcing term (the bold F); the form of the wind force is a an additional A*cos(2*pi*y/L) where A is a chosen coefficient, and L is the full length of the Shallow Water in the X direction). Also note that f(r) = f_0 + Beta * y
 
 To obtain our data we used a method outlined in the following paper to generate the Shallow Waters:
 
