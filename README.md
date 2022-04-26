@@ -9,10 +9,12 @@ The Time Delay Embedding DDF Folder contains the TDE DDF python script as well a
 
 https://user-images.githubusercontent.com/54558570/164692112-e4673e7d-05c8-4c6e-998f-7b5237f180f0.mp4
 
-The Shallow Water Equations themselves with Wind Forcing:
+The Shallow Water Equations:
 
-<img width="648" alt="Screen Shot 2022-04-25 at 11 43 52 PM" src="https://user-images.githubusercontent.com/54558570/165238149-45bf7057-5729-4ceb-ab16-af1bb12c86f5.png">
+<img width="1011" alt="Screen Shot 2022-04-25 at 11 48 09 PM" src="https://user-images.githubusercontent.com/54558570/165239371-c75c0201-be28-452c-bb57-0a2383cdbee7.png">
 
+
+We include forcing terms that that are additive to the equations of motion. In the examples, a wind forcing term takes the place as our forcing term (the bold F); the form of the wind force is a an additional A*cos(2*pi*y/L) where A is a chosen coefficient, and L is the full lenght of the Shallow Water in the X direction).
 
 How we Generated the SWE (include a link to the papers method):
 
