@@ -11,7 +11,7 @@ import numpy as np
 from sklearn.cluster import KMeans
 
 
-class GaussPoly1v2Mat_TDE:    
+class Gaus_Poly1_TDE:    
     """
     First Make centers for your Training. It useful to do this step seperately as it can take a while to perform for large data sets,
     and if the user wants to perform multiple trainings to select good hyper parameters, it would be unnecessary to recalculate centers
